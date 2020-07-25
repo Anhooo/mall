@@ -1,5 +1,5 @@
 ## mall-商城小程序<br>
-该项目仅用于学习，参考[litemall](https://github.com/linlinjava/litemall "悬停显示")搭建，选这个项目主要是因为各模块和文档齐全，非常适合入门学习。<br>
+该项目仅用于学习，参考[litemall](https://github.com/linlinjava/litemall "悬停显示")搭建，选这个项目主要是因为litemall各模块和文档齐全，非常适合入门学习。<br>
 ## mall 项目结构<br>
 mall-wx 微信小程序前端<br>
 mall-admin 管理后台<br>
