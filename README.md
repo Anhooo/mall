@@ -3,7 +3,7 @@
 ## mall 项目结构<br>
 mall-wx 微信小程序前端<br>
 mall-admin 管理后台<br>
-mall-all <br>
+mall-all 下面四个服务模块的整合<br>
 mall-wx-api 微信小程序前端调用api<br>
 mall-admin-api 管理后台调用api<br>
 mall-db 数据访问服务<br>
