@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="206a7a44-5ae2-4adf-8da3-e835a5f24db7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-wx/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/mall-wx/project.config.json" afterDir="false" />
-    </list>
+    <list default="true" id="206a7a44-5ae2-4adf-8da3-e835a5f24db7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/mall-core/target/" />
@@ -286,6 +282,11 @@
             <path>
               <item name="mall" type="b2602c69:ProjectViewProjectNode" />
               <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
               <item name="mall-db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -440,7 +441,7 @@
       <workItem from="1595399735570" duration="18246000" />
       <workItem from="1595467954162" duration="3882000" />
       <workItem from="1595588687056" duration="670000" />
-      <workItem from="1595589455160" duration="8143000" />
+      <workItem from="1595589455160" duration="8474000" />
     </task>
     <task id="LOCAL-00001" summary="一个小程序商城，参考litemall构建，主要用于学习sprintboot和mybatis,以及程序开发流程">
       <created>1595591107142</created>
@@ -456,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595658251234</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mall">
+      <created>1595682471559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595682471559</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36266000" />
+    <option name="totallyTimeSpent" value="36597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
