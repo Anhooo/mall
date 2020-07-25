@@ -8,9 +8,13 @@ mall-wx-api 微信小程序前端调用api<br>
 mall-admin-api 管理后台调用api<br>
 mall-db 数据访问服务<br>
 mall-core 通用服务模块<br>
-## 项目预览
-![alt](URL title)
-## 启动
+## 项目预览<br>
+![Alt text](https://github.com/Anhooo/mall/blob/master/img/index.png)<br>
+![Alt text](https://github.com/Anhooo/mall/blob/master/img/category.png)<br>
+![Alt text](https://github.com/Anhooo/mall/blob/master/img/my.png)<br>
+![Alt text](https://github.com/Anhooo/mall/blob/master/img/admin-index1.png)<br>
+![Alt text](https://github.com/Anhooo/mall/blob/master/img/admin-index.png)<br>
+## 启动<br>
 1. 环境配置<br>
 [mysql](https://dev.mysql.com/downloads/mysql/ "悬停显示")<br>
 [JDK1.8或以上](https://www.oracle.com/technetwork/java/javase/overview/index.html "悬停显示")<br>
